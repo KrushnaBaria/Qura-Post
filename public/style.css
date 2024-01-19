@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: rgb(217, 218, 220);
+}
+
+h1{
+ color: maroon;
+}
+
+.post{
+    border-radius: 10px;
+    background-color: rgb(39, 38, 38);
+}
+
+.user{
+    font-style: italic;
+}
